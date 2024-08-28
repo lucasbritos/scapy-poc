@@ -1,0 +1,1 @@
+sudo env "PATH=$PATH" python src/runner.py 192.168.88.0/29
